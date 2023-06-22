@@ -3,7 +3,7 @@
 
 - 🔭 I am currently working on the documentation for the telegram bot for an investment company
 - 🌱 I’m currently learning how to work with MySql through Python scripts
-- 📫 How to reach me: Telegramm - [@NerouN_Bro](https://t.me/NerouN_Bro); Discord - []#5317
+- 📫 How to reach me: Telegramm - [@NerouN_Bro](https://t.me/NerouN_Bro); Discord - 6.0.9
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NerouN26)](https://github.com/anuraghazra/github-readme-stats)
 
