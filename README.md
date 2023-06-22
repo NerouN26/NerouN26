@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I'm Nikita! 👏
 
-- 🔭 I am currently working on a telegram bot for an investment company
+- 🔭 I am currently working on the documentation for the telegram bot for an investment company
 - 🌱 I’m currently learning how to work with MySql through Python scripts
 - 📫 How to reach me: Telegramm - [@NerouN_Bro](https://t.me/NerouN_Bro); Discord - []#5317
 
