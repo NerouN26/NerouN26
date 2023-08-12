@@ -1,6 +1,8 @@
 ### Hi there 👋
 ## I'm Nikita! 👏
 
+## ⏳ I am now close to the status of Junior Backend Developer, but due to my age and not yet received the necessary education from the university, I cannot start working in my specialty. At the moment I'm just developing my skills
+
 - 🔭 I am currently working on a website for opening a retail business.
 - 🌱 I am currently learning frontend web development.
 - 📫 How to reach me: Telegramm - [@NerouN_Bro](https://t.me/NerouN_Bro); Discord - 6.0.9
