@@ -7,7 +7,7 @@
 - 🌱 I am currently learning frontend web development.
 - 📫 How to reach me: Telegramm - [@NerouN_Bro](https://t.me/NerouN_Bro); Discord - 6.0.9
 
-```[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NerouN26)](https://github.com/anuraghazra/github-readme-stats)```
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NerouN26)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <h3>My Stack:</h3>
 <div style="float: left;">
