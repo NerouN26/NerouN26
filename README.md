@@ -3,7 +3,7 @@
 
 ### ⏳ I cannot start working in my specialty. At the moment I'm just developing my skills
 
-- 🔭 I am currently working on a website for opening a retail business.
+- 🔭 I am currently working on improving my CSS and JavaScript skills.
 - 🌱 I am currently learning frontend web development.
 - 📫 How to reach me: Telegramm - [@NerouN_Bro](https://t.me/NerouN_Bro); Discord - 6.0.9
 
